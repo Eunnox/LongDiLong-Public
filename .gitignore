@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+.manus-logs/
+.local-dev-data.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build and cache artifacts
+*.tsbuildinfo
+coverage/

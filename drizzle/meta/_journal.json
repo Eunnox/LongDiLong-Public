@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776363992635,
+      "tag": "0000_elite_agent_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1776364149485,
+      "tag": "0001_sloppy_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1776729979533,
+      "tag": "0002_milky_master_chief",
+      "breakpoints": true
+    }
+  ]
+}
