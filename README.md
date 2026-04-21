@@ -13,8 +13,6 @@
 사용자는 구글 로그인 후 자신만의 챗봇 아이덴티티를 만들고 초대 코드를 생성할 수 있습니다.  
 연인은 그 코드를 입력해 챗봇과 대화를 시작하고, 챗봇을 만든 사람은 공유 전에 프롬프트를 다듬고 테스트해볼 수 있습니다.
 
-import mainUi from "../assets/images/ldl_main.png";
-
 <img src={mainUi} alt="login background" />
 
 
