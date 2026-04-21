@@ -6,6 +6,8 @@ import Onboarding from "./Onboarding";
 import Chat from "./Chat";
 import OwnerDashboard from "./OwnerDashboard";
 import loginBg from "@/assets/images/main-emoji.png";
+import mainUi from "../assets/images/ldl_main.png";
+
 
 declare global {
 
